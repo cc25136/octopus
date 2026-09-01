@@ -32,11 +32,7 @@ public class Customer
     }
 
 
-<<<<<<< HEAD
     
-=======
-
->>>>>>> 1039df171373f51c7c29830700d7bf4d29560422
 
     @Override
     public String toString()
